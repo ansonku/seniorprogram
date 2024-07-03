@@ -8,3 +8,5 @@
 # 物理
 - 基礎物理 phyworld
     - https://www.phyworld.idv.tw/BA_PHY/index.html
+- 物理怪客
+    - https://www.youtube.com/channel/UCVh2kafAQeP4LCuZXZXAMRA
