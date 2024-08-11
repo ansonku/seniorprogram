@@ -12,3 +12,7 @@
     - https://www.phyworld.idv.tw/BA_PHY/index.html
 - 物理怪客
     - https://www.youtube.com/channel/UCVh2kafAQeP4LCuZXZXAMRA
+
+# 數學
+- 向量
+   - https://www.youtube.com/watch?v=l9ioZA9brtc
