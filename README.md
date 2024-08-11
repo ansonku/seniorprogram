@@ -16,3 +16,5 @@
 # 數學
 - 向量
    - https://www.youtube.com/watch?v=l9ioZA9brtc
+- Log
+   - https://www.youtube.com/watch?v=1D91df9AXHU
