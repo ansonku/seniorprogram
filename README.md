@@ -14,7 +14,8 @@
     - https://www.youtube.com/channel/UCVh2kafAQeP4LCuZXZXAMRA
 
 # 數學
-- 向量
-   - https://www.youtube.com/watch?v=l9ioZA9brtc
-- Log
-   - https://www.youtube.com/watch?v=1D91df9AXHU
+- https://www.youtube.com/@MrJensenMath10
+  - 向量
+    - https://www.youtube.com/watch?v=l9ioZA9brtc
+  - Log
+    - https://www.youtube.com/watch?v=1D91df9AXHU
