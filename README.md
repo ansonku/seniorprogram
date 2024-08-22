@@ -6,6 +6,8 @@
 # 學測考試
 - 考古題
     - https://preedhd.com/category/item-bank-and-answers/
+- 高中段考題
+    - http://www.mathland.idv.tw/mathtest/exam3.htm
 
 # 物理
 - 基礎物理 phyworld
