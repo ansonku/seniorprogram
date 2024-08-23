@@ -25,3 +25,5 @@
 # 選才
 - 大學選才輔助系統
    - https://collego.edu.tw/Login/Index
+- 自主學習
+   - https://sdl.ntl.edu.tw/sdl/
