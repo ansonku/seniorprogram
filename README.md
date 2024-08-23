@@ -21,3 +21,7 @@
     - https://www.youtube.com/watch?v=l9ioZA9brtc
   - Log
     - https://www.youtube.com/watch?v=1D91df9AXHU
+
+# 選才
+- 大學選才輔助系統
+   - https://collego.edu.tw/Login/Index
