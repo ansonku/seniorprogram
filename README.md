@@ -2,6 +2,8 @@
 高中生或科學班
 - 傅立葉轉換科普
       - https://www.youtube.com/watch?v=wRNMrTHGJOY
+- 可視化傅立葉轉換
+      - https://www.youtube.com/watch?v=spUNpyF58BY
 
 # 學測考試
 - 考古題
