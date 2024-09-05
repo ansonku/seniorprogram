@@ -23,6 +23,15 @@
     - https://www.youtube.com/watch?v=l9ioZA9brtc
   - Log
     - https://www.youtube.com/watch?v=1D91df9AXHU
+- 微積分
+    - 微積分福音，寫個高中生的微積分
+      - https://calcgospel.top/2024/寫給高中生的微積分簡介-第六版/
+      - https://r2.calcgospel.top/doc%2F寫給高中生的微積分簡介-第六版.pdf?_gl=1*t0ye73*_ga*MjA2MTk2MTg1Ni4xNzI1NTQ1ODM1*_ga_78539J82B9*MTcyNTU0NTgzNC4xLjAuMTcyNTU0NTgzNC4wLjAuMA..
+    - 開放式課程
+      - 台大 http://ocw.aca.ntu.edu.tw/ntu-ocw/index.php/ocw/cou/100S111/6
+      - 清大 https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=7&
+      - 逢甲 http://140.134.140.90/Calculus_GGB/
+      - 
 
 # 選才
 - 大學選才輔助系統
