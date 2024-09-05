@@ -29,3 +29,7 @@
    - https://collego.edu.tw/Login/Index
 - 自主學習
    - https://sdl.ntl.edu.tw/sdl/
+
+# 英文資源
+- 紐約 NY Times Daily (有逐字稿)
+        - https://www.nytimes.com/2024/09/03/podcasts/the-daily/phone-ban-school.html?
