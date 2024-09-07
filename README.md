@@ -43,3 +43,5 @@
 - 紐約 NY Times Daily (有逐字稿)
   - https://www.nytimes.com/2024/09/03/podcasts/the-daily/phone-ban-school.html
   - https://app.podscribe.ai/series/1068
+- YouGlish
+  - https://youglish.com/
