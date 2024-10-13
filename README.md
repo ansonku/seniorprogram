@@ -16,6 +16,9 @@
     - https://www.phyworld.idv.tw/BA_PHY/index.html
 - 物理怪客
     - https://www.youtube.com/channel/UCVh2kafAQeP4LCuZXZXAMRA
+ 
+- 高中線上物理自學網
+    - https://sites.google.com/site/phyelearning/home
 
 # 數學
 - https://www.youtube.com/@MrJensenMath10
