@@ -19,6 +19,8 @@
  
 - 高中線上物理自學網
     - https://sites.google.com/site/phyelearning/home
+- 高一基礎物理講義
+    - https://webapps.tcfsh.tc.edu.tw/whc1118/p1.htm
 
 # 數學
 - https://www.youtube.com/@MrJensenMath10
