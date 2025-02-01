@@ -11,6 +11,10 @@
 - 高中段考題
     - http://www.mathland.idv.tw/mathtest/exam3.htm
 
+# 化學
+- 翰林課本
+    - 必修化學  https://drive.google.com/drive/folders/1ORULL3PGuCYIm5mpBs12gPJFMW0oWSQP
+    - 選修化學  https://drive.google.com/drive/folders/1otX3y_8HDaO1CrEz0oyyVxa6qmejaulx
 # 物理
 - 基礎物理 phyworld
     - https://www.phyworld.idv.tw/BA_PHY/index.html
