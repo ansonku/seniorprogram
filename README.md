@@ -11,6 +11,10 @@
 - 高中段考題
     - http://www.mathland.idv.tw/mathtest/exam3.htm
 
+# 翰林
+- 課本下載
+    - https://sh.hle.com.tw
+
 # 化學
 - 翰林課本
     - 必修化學  https://drive.google.com/drive/folders/1ORULL3PGuCYIm5mpBs12gPJFMW0oWSQP
