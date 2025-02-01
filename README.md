@@ -16,7 +16,9 @@
     - https://www.phyworld.idv.tw/BA_PHY/index.html
 - 物理怪客
     - https://www.youtube.com/channel/UCVh2kafAQeP4LCuZXZXAMRA
- 
+-  翰林課本
+    - 必修物理  https://drive.google.com/drive/folders/1u2kvkmZMHtFobzxBSH-XzFmIb3VE58ou
+    - 選修物理  https://drive.google.com/drive/folders/1wmdHbp7usnuw95lUBBKL5fluTpwXSNmv
 - 高中線上物理自學網
     - https://sites.google.com/site/phyelearning/home
 - 高一基礎物理講義
