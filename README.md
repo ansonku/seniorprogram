@@ -22,6 +22,7 @@
 - 高一基礎物理講義
     - https://webapps.tcfsh.tc.edu.tw/whc1118/p1.htm
 - 阿Samn的物理課本
+    - 主網站 https://mysecretpark.blogspot.com
     - 選修物理一 https://sites.google.com/view/samnphysics/自編教材/選修物理1
     - 選修物理二 https://sites.google.com/view/samnphysics/自編教材/選修物理2
     - 選修物理三 https://sites.google.com/view/samnphysics/自編教材/選修物理3
