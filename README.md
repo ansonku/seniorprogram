@@ -21,6 +21,13 @@
     - https://sites.google.com/site/phyelearning/home
 - 高一基礎物理講義
     - https://webapps.tcfsh.tc.edu.tw/whc1118/p1.htm
+- 阿Samn的物理課本
+    - 選修物理一 https://sites.google.com/view/samnphysics/自編教材/選修物理1
+    - 選修物理二 https://sites.google.com/view/samnphysics/自編教材/選修物理2
+    - 選修物理三 https://sites.google.com/view/samnphysics/自編教材/選修物理3
+    - 選修物理四 https://sites.google.com/view/samnphysics/自編教材/選修物理4
+    - 選修物理五 https://sites.google.com/view/samnphysics/自編教材/選修物理5
+    - 必修物理   https://sites.google.com/view/samnphysics/自編教材/必修物理
 
 # 數學
 - https://www.youtube.com/@MrJensenMath10
