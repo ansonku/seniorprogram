@@ -46,6 +46,9 @@
     - https://www.youtube.com/watch?v=l9ioZA9brtc
   - Log
     - https://www.youtube.com/watch?v=1D91df9AXHU
+- 高中數學自學
+    - 黑狗的家
+      - https://sites.google.com/gl.ck.tp.edu.tw/lha/%E9%AB%98%E4%B8%AD%E6%95%99%E6%9D%90/108%E8%AA%B2%E7%B6%B1%E8%AC%9B%E7%BE%A9?authuser=1
 - 微積分
     - 微積分福音，寫個高中生的微積分
       - https://calcgospel.top/2024/寫給高中生的微積分簡介-第六版/
