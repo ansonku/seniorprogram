@@ -59,6 +59,7 @@
       - https://r2.calcgospel.top/doc%2F寫給高中生的微積分簡介-第六版.pdf?_gl=1*t0ye73*_ga*MjA2MTk2MTg1Ni4xNzI1NTQ1ODM1*_ga_78539J82B9*MTcyNTU0NTgzNC4xLjAuMTcyNTU0NTgzNC4wLjAuMA..
     - 清大開放式課程微積分
       - https://ocw.nthu.edu.tw/ocw/index.php?page=newsContent&id=645
+      - 極限值 https://ocw.nthu.edu.tw/ocw/upload/news_attach/645/Calculus-Whitman.pdf
     - 開放式課程
       - 台大 http://ocw.aca.ntu.edu.tw/ntu-ocw/index.php/ocw/cou/100S111/6
       - 清大 https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=7&
