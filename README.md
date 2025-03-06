@@ -52,6 +52,8 @@
 - 微積分
     - 臺灣大學  數學系  朱樺 
       - https://www.math.ntu.edu.tw/~hchu/Calculus/
+    - 成大微積分學
+      - https://library.math.ncku.edu.tw/documents/3/Calculus2015B.pdf
     - 微積分福音，寫個高中生的微積分
       - https://calcgospel.top/2024/寫給高中生的微積分簡介-第六版/
       - https://r2.calcgospel.top/doc%2F寫給高中生的微積分簡介-第六版.pdf?_gl=1*t0ye73*_ga*MjA2MTk2MTg1Ni4xNzI1NTQ1ODM1*_ga_78539J82B9*MTcyNTU0NTgzNC4xLjAuMTcyNTU0NTgzNC4wLjAuMA..
