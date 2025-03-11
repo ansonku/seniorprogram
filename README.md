@@ -60,6 +60,8 @@
     - 清大開放式課程微積分
       - https://ocw.nthu.edu.tw/ocw/index.php?page=newsContent&id=645
       - 極限值 https://ocw.nthu.edu.tw/ocw/upload/news_attach/645/Calculus-Whitman.pdf
+    - 微積總動員
+      - https://sites.google.com/site/calculusteaching/home/calculus/exercises
     - 瑤瑤微積分
       - https://sites.google.com/site/yauyaucalculus/can-kao-jiang-yi
     - 開放式課程
