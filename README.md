@@ -85,3 +85,6 @@
  
 - 程式設計學習
   - https://coddy.tech/
+# 科學班
+- 資格考考古題
+  - https://phsms.cloud.ncnu.edu.tw/eduexp/PastExam.aspx
