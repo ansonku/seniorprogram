@@ -39,6 +39,8 @@
     - 選修物理四 https://sites.google.com/view/samnphysics/自編教材/選修物理4
     - 選修物理五 https://sites.google.com/view/samnphysics/自編教材/選修物理5
     - 必修物理   https://sites.google.com/view/samnphysics/自編教材/必修物理
+- 高中物理網
+    - http://gaozhongwuli.com/zongjie/gongshi/481758.html
 
 # 數學
 - https://www.youtube.com/@MrJensenMath10
