@@ -90,3 +90,6 @@
 # 科學班
 - 資格考考古題
   - https://phsms.cloud.ncnu.edu.tw/eduexp/PastExam.aspx
+# 開放式課程
+- 台大
+  - http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/coupage/1
