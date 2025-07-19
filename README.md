@@ -51,7 +51,9 @@
     - 高二選修 https://www.youtube.com/playlist?list=PL9tm-yco7y4DO8vtnk9sHn192teCswxPy
     - 高三選修 https://www.youtube.com/playlist?list=PL9tm-yco7y4BeSbSgBBR9rzqKEfL15jI8
     - 高三選修 https://www.youtube.com/playlist?list=PL9tm-yco7y4Bno41uGOwQEUk3cOf2hXBh
-
+# 段考
+- 高中段考考古題
+    - https://928education.com/listing/past-exam-student/
 # 數學
 - https://www.youtube.com/@MrJensenMath10
   - 向量
