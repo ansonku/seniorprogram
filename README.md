@@ -45,6 +45,12 @@
     - 必修物理   https://sites.google.com/view/samnphysics/自編教材/必修物理
 - 高中物理網
     - http://gaozhongwuli.com/zongjie/gongshi/481758.html
+- Astro Ni 倪赫擎 高中物理 (高一翰林無敵 高二、三龍騰super)
+    - 高一必修物理 112 [https://www.youtube.com/playlist?list=PL9tm-yco7y4Dtipa94FzToP1_XBZt_QMT](https://www.youtube.com/playlist?list=PL9tm-yco7y4ARhf-G3ut2Lhe41V9iJhFX)
+    - 高一必修物理 113 https://www.youtube.com/playlist?list=PL9tm-yco7y4Dtipa94FzToP1_XBZt_QMT
+    - 高二選修 https://www.youtube.com/playlist?list=PL9tm-yco7y4DO8vtnk9sHn192teCswxPy
+    - 高三選修 https://www.youtube.com/playlist?list=PL9tm-yco7y4BeSbSgBBR9rzqKEfL15jI8
+    - 高三選修 https://www.youtube.com/playlist?list=PL9tm-yco7y4Bno41uGOwQEUk3cOf2hXBh
 
 # 數學
 - https://www.youtube.com/@MrJensenMath10
