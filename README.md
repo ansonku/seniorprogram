@@ -61,6 +61,8 @@
 - 高中數學自學
     - 黑狗的家
       - https://sites.google.com/gl.ck.tp.edu.tw/lha/%E9%AB%98%E4%B8%AD%E6%95%99%E6%9D%90/108%E8%AA%B2%E7%B6%B1%E8%AC%9B%E7%BE%A9?authuser=1
+- 正哥愛數學
+    - https://sites.google.com/chjs.ntpc.edu.tw/carlovemath/首頁?authuser=0
 - 微積分
     - 臺灣大學  數學系  朱樺 
       - https://www.math.ntu.edu.tw/~hchu/Calculus/
