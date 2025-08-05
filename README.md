@@ -22,6 +22,9 @@
 - 北一女生物科教師  蔡任圃(艦長)
     - https://sites.google.com/msa.hinet.net/captain0321/00?authuser=0
     - https://www.youtube.com/playlist?list=PLMKpzRD9Mkkbom-Z8TzA8APiZXgb3XXNZ
+# 地科
+- 很舊很舊的課綱
+        - https://mynotes.org/earth/?p=7379
 # 化學
 - 翰林課本
     - 必修化學  https://drive.google.com/drive/folders/1ORULL3PGuCYIm5mpBs12gPJFMW0oWSQP
