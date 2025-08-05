@@ -25,6 +25,8 @@
 # 地科
 - 很舊很舊的課綱
         - https://mynotes.org/earth/?p=7379
+- 99 課綱筆記
+        - https://wp.cjhs.kh.edu.tw/earth/%E5%9F%BA%E7%A4%8E%E5%9C%B0%E7%A7%91%E6%95%99%E5%AD%B8%E7%AD%86%E8%A8%98/
 # 化學
 - 翰林課本
     - 必修化學  https://drive.google.com/drive/folders/1ORULL3PGuCYIm5mpBs12gPJFMW0oWSQP
