@@ -115,5 +115,6 @@
 # 開放式課程
 - 台大
   - http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/coupage/1
+  - https://ocw.aca.ntu.edu.tw/courses?category_id=3&page=2
 - 清大
   - https://ocw.nthu.edu.tw/ocw/index.php?page=courseList&classid=0
